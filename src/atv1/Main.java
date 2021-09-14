@@ -27,7 +27,7 @@ public class Main {
 		
 		produtos.tenis = "5 (cinco) pares Air Max 90";
 		produtos.camisas = "7 (sete) peças retrô";
-		produtos.calças = "7 (sete) peças Jogger";
+		produtos.calças = "7 (sete) peças Jogger ";
 		
 		LocalDate dataSaida = LocalDate.of(2020, 7, 06);
 		LocalDate dataChegada = LocalDate.of(2020, 7, 16);
